@@ -1,6 +1,13 @@
-h1 {
-	color: green;
+body {
+	background-image: url(../img/bg-main.png);
 }
-p {
-	color: blue;
+
+.page-header {
+	background: #747474 url(../img/bg-head.png);
+	height: 90px;
+}
+
+.page-footer {
+	background: #fcfcfc url(../img/bg-footer.png);
+	height: 61px;
 }
